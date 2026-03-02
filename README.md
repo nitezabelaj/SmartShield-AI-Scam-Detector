@@ -134,7 +134,8 @@ Fraud detection systems
 ### License
 
 This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project for educational and commercial purposes.
+
+You are free to use, modify, and distribute this project for educational & commercial purposes only.
 
 
 
