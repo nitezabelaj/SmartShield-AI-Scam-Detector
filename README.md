@@ -49,7 +49,6 @@ The system analyzes text messages, assigns a risk score (0–100), classifies th
 ---
 
 
----
 
 ## ⚙️ Installation
 
@@ -134,7 +133,8 @@ Social media content monitoring
 Fraud detection systems
 ### License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project for educational and commercial purposes.
 
 
 
